@@ -1,0 +1,20 @@
+Overriding = nama method sama pada inheritance
+
+
+Method Calls in inheritance
+
+--> menimpa method dengan nama yang sama yang ada di sub class
+
+Class Hero:
+--> void display()
+
+Class HeroStrength:
+--> void display()
+
+
+Cara kerja overriding :
+1. method akan mencari di super class dulu, jika ketemu di
+   super class, maka method itu yang akan dipakai.
+
+2. Jika tidak ada di super class, maka method akan mencari di
+   sub class (parent).

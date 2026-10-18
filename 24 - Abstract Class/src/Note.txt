@@ -1,0 +1,5 @@
+Abstract = sebuah ide yang tidak ada bentuk fisiknya
+--> tidak punya object
+
+ "Pemaksaan" method
+

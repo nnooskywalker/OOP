@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0.6,
+    "workbench.colorTheme": "Dracula Theme",
+    "terminal.integrated.fontSize": 18,
+}

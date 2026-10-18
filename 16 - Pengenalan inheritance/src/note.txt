@@ -1,0 +1,6 @@
+Inheritance (Pewarisan):
+--> ada yang memberi warisan (Super Class / Parent Class / Base Class)
+--> warisan
+--> mendapat warisan / ahli waris (Sub Class / Child Class / Derived Class)
+
+- hubungan dari inheritance adalah "is - a"

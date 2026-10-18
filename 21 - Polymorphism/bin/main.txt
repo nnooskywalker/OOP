@@ -1,0 +1,9 @@
+Polymorphism :
+--> Poly = banyak
+--> morphism = bentuk
+
+object --> berasal / berbentuk berubah - ubah
+
+--> objek yang memiliki banyak bentuk
+
+--> Setiap punya objek di subclass, maka object tersebut juga object dari super class nya
