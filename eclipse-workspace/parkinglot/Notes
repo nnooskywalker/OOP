@@ -1,0 +1,5 @@
+Class tersebut melanggar SRP (Single Responsibility Principle) dan ISP (interface Segregation Principle)
+
+alasan : Karena class tersebut memiliki lebih dari 1 tujuan dan memaksa meng-implements method yang tidak dibutuhkan.
+
+solusi : buat class baru untuk menyimpan method yang tidak diperlukan tersebut.

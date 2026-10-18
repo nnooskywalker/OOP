@@ -1,0 +1,18 @@
+Nama : Reyhan Nino Aliffano
+Kelas : PPTI 24
+NIM : 2902726864
+
+
+1. Code tersebut melanggar Single Responsibility Principle (SRP)
+alasan : Class EcommerceSystem memiliki lebih dari 1 tujuan :
+		- addProduct (Electronics, Food, Fashion)
+		- processPayment(Credit Card, Paypal, Bank Transfer, JNE, JNT, SiCepat)
+		- sendMessage(JNE, JNT, SiCepat, Email, SMS, WhatsApp)
+		- saveToDatabase(SQl, MongoDB)
+		
+solusi : pisah class tersebut ke kategori masing"
+
+2. Code tersebut melanggar Open Closed Principle (OCP)
+alasan : method checkout pada class tersebut akan mudah diedit oleh user jika user memiliki metode payment, shipping, dan notfikasi yang baru.
+
+solusi : buat interface atau buat class baru

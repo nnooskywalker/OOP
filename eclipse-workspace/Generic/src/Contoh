@@ -1,0 +1,12 @@
+Class Box{
+	public void StringBox(String b{
+		System.Out.Println("String: " + b);
+	}
+	
+	public void IntegerBox(Integer b){
+	}
+	
+	
+	
+
+}

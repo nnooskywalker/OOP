@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Copy Project &apos;ecommerce&apos;" description="Copy Project &apos;ecommerce&apos;" destination="C:/Kuliah/Cawu 2/Object Oriented Programming/eclipse-workspace" element="/ecommerce" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="ecommerceRevisi" stamp="1777864964582"/>&#x0A;<refactoring comment="Delete resource &apos;ecommerceRevisi&apos;" deleteContents="false" description="Delete resource &apos;ecommerceRevisi&apos;" element1="/ecommerceRevisi" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1777981986397"/>
+</session>

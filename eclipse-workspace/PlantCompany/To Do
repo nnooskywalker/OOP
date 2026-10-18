@@ -1,0 +1,21 @@
+Plant Collection
+===================
+
+Setiap plant punya nama. Ada 3 tipe plant:
+1. Flower (punya color)
+2. HousePlant (punya growthTime)
+3. Tree (punya height)
+
+
+Maintenance schedule 
+----------------------
+1. Watering : flower, houseplant
+2. Pruning : houseplant, tree
+3. Fretizing : all
+
+Class :
+- Main
+- Plant <-- abstract, fertilizing()
+  a. Flower
+  b. Tree
+  c. HousePlant
